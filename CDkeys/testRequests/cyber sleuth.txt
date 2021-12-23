@@ -1,0 +1,44 @@
+POWERSHELL
+
+$session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
+$session.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+Invoke-WebRequest -UseBasicParsing -Uri "https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1)%3B%20Browser%3B%20instantsearch.js%20(4.7.2)%3B%20Magento2%20integration%20(3.0.2)%3B%20JS%20Helper%20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9" `
+-Method "POST" `
+-WebSession $session `
+-Headers @{
+"sec-ch-ua"="`" Not A;Brand`";v=`"99`", `"Chromium`";v=`"96`", `"Google Chrome`";v=`"96`""
+  "accept"="application/json"
+  "sec-ch-ua-mobile"="?0"
+  "sec-ch-ua-platform"="`"Windows`""
+  "Origin"="https://www.cdkeys.com"
+  "Sec-Fetch-Site"="cross-site"
+  "Sec-Fetch-Mode"="cors"
+  "Sec-Fetch-Dest"="empty"
+  "Referer"="https://www.cdkeys.com/"
+  "Accept-Encoding"="gzip, deflate, br"
+  "Accept-Language"="en,en-US;q=0.9,it;q=0.8"
+} `
+-ContentType "application/x-www-form-urlencoded" `
+-Body "{`"requests`":[{`"indexName`":`"magento2_default_products`",`"params`":`"highlightPreTag=__ais-highlight__&highlightPostTag=__%2Fais-highlight__&page=0&ruleContexts=%5B%22magento_filters%22%5D&hitsPerPage=24&clickAnalytics=true&query=cyber%20sleuth&maxValuesPerFacet=10&facets=%5B%22restricted_countries%22%2C%22platforms%22%2C%22region%22%2C%22language%22%2C%22genres%22%2C%22price.EUR.default%22%5D&tagFilters=&facetFilters=%5B%22restricted_countries%3A-IT%22%5D&numericFilters=%5B%22visibility_search%3D1%22%5D`"}]}"
+
+FETCH REQUEST
+
+fetch("https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1)%3B%20Browser%3B%20instantsearch.js%20(4.7.2)%3B%20Magento2%20integration%20(3.0.2)%3B%20JS%20Helper%20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9", {
+  "headers": {
+    "accept": "application/json",
+    "accept-language": "en,en-US;q=0.9,it;q=0.8",
+    "content-type": "application/x-www-form-urlencoded",
+    "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.cdkeys.com/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"requests\":[{\"indexName\":\"magento2_default_products\",\"params\":\"highlightPreTag=__ais-highlight__&highlightPostTag=__%2Fais-highlight__&page=0&ruleContexts=%5B%22magento_filters%22%5D&hitsPerPage=24&clickAnalytics=true&query=cyber%20sleuth&maxValuesPerFacet=10&facets=%5B%22restricted_countries%22%2C%22platforms%22%2C%22region%22%2C%22language%22%2C%22genres%22%2C%22price.EUR.default%22%5D&tagFilters=&facetFilters=%5B%22restricted_countries%3A-IT%22%5D&numericFilters=%5B%22visibility_search%3D1%22%5D\"}]}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "omit"
+});

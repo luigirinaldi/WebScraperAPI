@@ -1,0 +1,1168 @@
+(anonymous) @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11364
+a._request @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11363
+t @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11363
+r._jsonRequest @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11363
+r.search @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11363
+L._search @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11357
+L.searchOnlyWithDerivedHelpers @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11356
+t.search @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11357
+(anonymous) @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11357
+n @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11356
+E.emit @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11356
+L._search @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11357
+L.search @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11356
+searchFunction @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/Algolia_AlgoliaSearch/instantsearch.js:105
+t.search @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11357
+search @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11353
+s @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11354
+_refine @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/magepack/bundle-common.js:11354
+(anonymous) @ https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/Algolia_AlgoliaSearch/instantsearch.js:611
+
+
+POST /1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1)%3B%20Browser%3B%20instantsearch.js%20(4.7.2)%3B%20Magento2%20integration%20(3.0.2)%3B%20JS%20Helper%20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9 HTTP/1.1
+Host: muvyib7tey-dsn.algolia.net
+Connection: keep-alive
+Content-Length: 495
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+accept: application/json
+content-type: application/x-www-form-urlencoded
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Origin: https://www.cdkeys.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.cdkeys.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en,en-US;q=0.9,it;q=0.8
+
+
+https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1)%3B%20Browser%3B%20instantsearch.js%20(4.7.2)%3B%20Magento2%20integration%20(3.0.2)%3B%20JS%20Helper%20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9
+
+
+curl "https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia^%^20for^%^20JavaScript^%^20(3.35.1)^%^3B^%^20Browser^%^3B^%^20instantsearch.js^%^20(4.7.2)^%^3B^%^20Magento2^%^20integration^%^20(3.0.2)^%^3B^%^20JS^%^20Helper^%^20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "accept: application/json" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "Origin: https://www.cdkeys.com" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.cdkeys.com/" ^
+  -H "Accept-Language: en,en-US;q=0.9,it;q=0.8" ^
+  --data-raw "^{^\^"requests^\^":^[^{^\^"indexName^\^":^\^"magento2_default_products^\^",^\^"params^\^":^\^"highlightPreTag=__ais-highlight__&highlightPostTag=__^%^2Fais-highlight__&page=0&ruleContexts=^%^5B^%^22magento_filters^%^22^%^5D&hitsPerPage=24&clickAnalytics=true&query=r&maxValuesPerFacet=10&facets=^%^5B^%^22restricted_countries^%^22^%^2C^%^22platforms^%^22^%^2C^%^22region^%^22^%^2C^%^22language^%^22^%^2C^%^22genres^%^22^%^2C^%^22price.EUR.default^%^22^%^5D&tagFilters=&facetFilters=^%^5B^%^22restricted_countries^%^3A-IT^%^22^%^5D&numericFilters=^%^5B^%^22visibility_search^%^3D1^%^22^%^5D^\^"^}^]^}" ^
+  --compressed
+
+
+
+
+
+
+curl "https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia^%^20for^%^20JavaScript^%^20(3.35.1)^%^3B^%^20Browser^%^3B^%^20instantsearch.js^%^20(4.7.2)^%^3B^%^20Magento2^%^20integration^%^20(3.0.2)^%^3B^%^20JS^%^20Helper^%^20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "accept: application/json" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "Origin: https://www.cdkeys.com" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.cdkeys.com/" ^
+  -H "Accept-Language: en,en-US;q=0.9,it;q=0.8" ^
+  --data-raw "^{^\^"requests^\^":^[^{^\^"indexName^\^":^\^"magento2_default_products^\^",^\^"params^\^":^\^"highlightPreTag=__ais-highlight__&highlightPostTag=__^%^2Fais-highlight__&page=0&ruleContexts=^%^5B^%^22magento_filters^%^22^%^5D&hitsPerPage=24&clickAnalytics=true&query=r&maxValuesPerFacet=10&facets=^%^5B^%^22restricted_countries^%^22^%^2C^%^22platforms^%^22^%^2C^%^22region^%^22^%^2C^%^22language^%^22^%^2C^%^22genres^%^22^%^2C^%^22price.EUR.default^%^22^%^5D&tagFilters=&facetFilters=^%^5B^%^22restricted_countries^%^3A-IT^%^22^%^5D&numericFilters=^%^5B^%^22visibility_search^%^3D1^%^22^%^5D^\^"^}^]^}" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/u/rust_console_edition_xbox.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/a/saints_row_xbox_one_xbox_series_x_s_uk_img_5_1_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/5/d/5de6658946177c5f23698932_24_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/e/l/elden_ring_deluxe_edition_xbox_one_xbox_series_x_s_uk__1_1_1_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/t/o/tom_clancy_s_rainbow_six_extraction_pc_eu_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/e/x/expeditions-rome-pc-steam.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/m/o/monster_hunter_rise_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/d/s/dsfsfdfs.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/g/a/game-steam-lawn-mowing-simulator-cover_7_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/v/o/voice-of-cards-the-isle-dragon-roars-pc-jeu-steam-cover_8_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/i/riders_republic_xbox_one_xbox_series_x_s_uk_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/f/i/fifa-22-pc-game-origin-cover_98_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/u/super_robot_wars_30_ultimate_edition_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/i/riders_republic_xbox_one_xbox_series_x_s_uk__1_1_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/u/super_robot_wars_30_deluxe_edition_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/i/riders_republic_ultimate_edition_xbox_one_xbox_series_x_s_uk_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/i/riders_republic_gold_edition_xbox_one_xbox_series_x_s_uk_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/i/riders_republic_xbox_one_xbox_series_x_s_uk__1_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/v/o/voice-of-cards-the-isle-dragon-roars-pc-jeu-steam-cover_1_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/i/riders_republic_xbox_one_xbox_series_x_s_uk__1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/d/e/defend_the_rook_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/u/n/untitled-1-recovered_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/a/sacred_fire__a_role_playing_game_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/g/o/golf-club-wasteland-pc-game-steam-cover_3_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/images/badges/epicgames.svg" ^
+  -H "authority: www.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-origin" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/css/styles.css" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: _ALGOLIA=anonymous-53d5aff9-0e8a-45ef-b3d6-c660d676b6ff; mage-cache-storage=^%^7B^%^7D; mage-cache-storage-section-invalidation=^%^7B^%^7D; mage-messages=; recently_viewed_product=^%^7B^%^7D; recently_viewed_product_previous=^%^7B^%^7D; recently_compared_product=^%^7B^%^7D; recently_compared_product_previous=^%^7B^%^7D; product_data_storage=^%^7B^%^7D; form_key=qMg6bpb6pNCkrG1o; X-Magento-Vary=b993a9e55077e18f0c545f6ea6c23840e6b0c95b; PHPSESSID=vihu5ufs315o0g2aqgmfctvmsu; __zlcmid=17fkZcaGi3fe7Be; mage-cache-sessid=true; geoipcountrycode=IT; localecountryen=Italy; section_data_ids=^%^7B^%^7D" ^
+  --compressed &
+curl "https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/Algolia_AlgoliaSearch/js/algolia-ajax-to-cart.js" ^
+  -H "authority: www.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: */*" ^
+  -H "sec-fetch-site: same-origin" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: script" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: _ALGOLIA=anonymous-53d5aff9-0e8a-45ef-b3d6-c660d676b6ff; mage-cache-storage=^%^7B^%^7D; mage-cache-storage-section-invalidation=^%^7B^%^7D; mage-messages=; recently_viewed_product=^%^7B^%^7D; recently_viewed_product_previous=^%^7B^%^7D; recently_compared_product=^%^7B^%^7D; recently_compared_product_previous=^%^7B^%^7D; product_data_storage=^%^7B^%^7D; form_key=qMg6bpb6pNCkrG1o; X-Magento-Vary=b993a9e55077e18f0c545f6ea6c23840e6b0c95b; PHPSESSID=vihu5ufs315o0g2aqgmfctvmsu; __zlcmid=17fkZcaGi3fe7Be; mage-cache-sessid=true; geoipcountrycode=IT; localecountryen=Italy; section_data_ids=^%^7B^%^7D" ^
+  --compressed &
+curl "https://www.cdkeys.com/static/version1640089528/frontend/Medialounge/cdkeys/en_GB/js/catalog/progress.babel.js" ^
+  -H "authority: www.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: */*" ^
+  -H "sec-fetch-site: same-origin" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: script" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: _ALGOLIA=anonymous-53d5aff9-0e8a-45ef-b3d6-c660d676b6ff; mage-cache-storage=^%^7B^%^7D; mage-cache-storage-section-invalidation=^%^7B^%^7D; mage-messages=; recently_viewed_product=^%^7B^%^7D; recently_viewed_product_previous=^%^7B^%^7D; recently_compared_product=^%^7B^%^7D; recently_compared_product_previous=^%^7B^%^7D; product_data_storage=^%^7B^%^7D; form_key=qMg6bpb6pNCkrG1o; X-Magento-Vary=b993a9e55077e18f0c545f6ea6c23840e6b0c95b; PHPSESSID=vihu5ufs315o0g2aqgmfctvmsu; __zlcmid=17fkZcaGi3fe7Be; mage-cache-sessid=true; geoipcountrycode=IT; localecountryen=Italy; section_data_ids=^%^7B^%^7D" ^
+  --compressed &
+curl "https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia^%^20for^%^20JavaScript^%^20(3.35.1)^%^3B^%^20Browser^%^3B^%^20instantsearch.js^%^20(4.7.2)^%^3B^%^20Magento2^%^20integration^%^20(3.0.2)^%^3B^%^20JS^%^20Helper^%^20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "accept: application/json" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "Origin: https://www.cdkeys.com" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.cdkeys.com/" ^
+  -H "Accept-Language: en,en-US;q=0.9,it;q=0.8" ^
+  --data-raw "^{^\^"requests^\^":^[^{^\^"indexName^\^":^\^"magento2_default_products^\^",^\^"params^\^":^\^"highlightPreTag=__ais-highlight__&highlightPostTag=__^%^2Fais-highlight__&page=0&ruleContexts=^%^5B^%^22magento_filters^%^22^%^5D&hitsPerPage=24&clickAnalytics=true&query=re&maxValuesPerFacet=10&facets=^%^5B^%^22restricted_countries^%^22^%^2C^%^22platforms^%^22^%^2C^%^22region^%^22^%^2C^%^22language^%^22^%^2C^%^22genres^%^22^%^2C^%^22price.EUR.default^%^22^%^5D&tagFilters=&facetFilters=^%^5B^%^22restricted_countries^%^3A-IT^%^22^%^5D&numericFilters=^%^5B^%^22visibility_search^%^3D1^%^22^%^5D^\^"^}^]^}" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/t/o/tom_clancy_s_ghost_recon_breakpoint_deluxe_edition_xbox_one_xbox_series_x_s_uk_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/h/t/https___www.cdkeys.com_indie_never-return-pc-steam.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/d/i/diablo_ii__resurrected_xbox_one_xbox_series_x_s_uk_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/d/i/diablo_ii__resurrected_xbox_one_xbox_series_x_s_eu_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/d/i/diablo_ii__resurrected_xbox_one_xbox_series_x_s_ww_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/d/i/diablo_ii__resurrected_xbox_one_xbox_series_x_s_eu__1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/s/ss_02c7bd2100b65c265dd5b28ab00d7218f52f41fb.1920x1080-min_10_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/red_solstice_2__survivors_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/d/b/dbd_resident_evil.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/g/h/ghosts_n_goblins_pc_steam_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/h/shin_megami_tensei_iii_nocturne_hd_remaster_pc_2.jpeg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/h/shin_megami_tensei_iii_nocturne_hd_remaster_deluxe_edition_pc_eu_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/a/saints_row_the_third_remastered_2.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/h/shin_megami_tensei_iii_nocturne_hd_remaster_-_digital_deluxe_edition_switch_eu_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/f/i/field_of_glory_ii__medieval_-_reconquista_pc_-_dlc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia^%^20for^%^20JavaScript^%^20(3.35.1)^%^3B^%^20Browser^%^3B^%^20instantsearch.js^%^20(4.7.2)^%^3B^%^20Magento2^%^20integration^%^20(3.0.2)^%^3B^%^20JS^%^20Helper^%^20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "accept: application/json" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "Origin: https://www.cdkeys.com" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.cdkeys.com/" ^
+  -H "Accept-Language: en,en-US;q=0.9,it;q=0.8" ^
+  --data-raw "^{^\^"requests^\^":^[^{^\^"indexName^\^":^\^"magento2_default_products^\^",^\^"params^\^":^\^"highlightPreTag=__ais-highlight__&highlightPostTag=__^%^2Fais-highlight__&page=0&ruleContexts=^%^5B^%^22magento_filters^%^22^%^5D&hitsPerPage=24&clickAnalytics=true&query=res&maxValuesPerFacet=10&facets=^%^5B^%^22restricted_countries^%^22^%^2C^%^22platforms^%^22^%^2C^%^22region^%^22^%^2C^%^22language^%^22^%^2C^%^22genres^%^22^%^2C^%^22price.EUR.default^%^22^%^5D&tagFilters=&facetFilters=^%^5B^%^22restricted_countries^%^3A-IT^%^22^%^5D&numericFilters=^%^5B^%^22visibility_search^%^3D1^%^22^%^5D^\^"^}^]^}" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/resident_evil_village_pc_cover.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/resident-evil-deluxe-edition-pc_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/resident-evil-deluxe-edition-pc_1_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/resident_evill_village_standard_xbox.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/re_village_deluxe_edition_1_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/resident_evill_village_standard_xbox_1_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/re_village_deluxe_edition.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/resident_evill_village_standard_xbox_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/n/snowtopia__ski_resort_tycoon_pc_1.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/w/i/winter-resort-simulator-season-2-complete-edition-pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/rescuecover_1_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/rescue-hq-bundle-pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/resident_evil_3_pc-cover-cdkeys.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/resident-evil3-xbox-one-cdkeys-cover.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/resident_evil_3_xbox_one_us_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/d/j/djmax_respect_cover_1_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/rescue-hq-coastguard-pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/h/e/hearts-of-iron-4-la-resistance-pc-cdkeys-discount.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia^%^20for^%^20JavaScript^%^20(3.35.1)^%^3B^%^20Browser^%^3B^%^20instantsearch.js^%^20(4.7.2)^%^3B^%^20Magento2^%^20integration^%^20(3.0.2)^%^3B^%^20JS^%^20Helper^%^20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "accept: application/json" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "Origin: https://www.cdkeys.com" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.cdkeys.com/" ^
+  -H "Accept-Language: en,en-US;q=0.9,it;q=0.8" ^
+  --data-raw "^{^\^"requests^\^":^[^{^\^"indexName^\^":^\^"magento2_default_products^\^",^\^"params^\^":^\^"highlightPreTag=__ais-highlight__&highlightPostTag=__^%^2Fais-highlight__&page=0&ruleContexts=^%^5B^%^22magento_filters^%^22^%^5D&hitsPerPage=24&clickAnalytics=true&query=rest&maxValuesPerFacet=10&facets=^%^5B^%^22restricted_countries^%^22^%^2C^%^22platforms^%^22^%^2C^%^22region^%^22^%^2C^%^22language^%^22^%^2C^%^22genres^%^22^%^2C^%^22price.EUR.default^%^22^%^5D&tagFilters=&facetFilters=^%^5B^%^22restricted_countries^%^3A-IT^%^22^%^5D&numericFilters=^%^5B^%^22visibility_search^%^3D1^%^22^%^5D^\^"^}^]^}" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/R/e/Restaurant_Empire_II_PC.png" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/rescue_team_7_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/t/rt4_cover_1_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/g/a/gal_gun_returns_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/r/e/rekt_high_octane_stunts_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia^%^20for^%^20JavaScript^%^20(3.35.1)^%^3B^%^20Browser^%^3B^%^20instantsearch.js^%^20(4.7.2)^%^3B^%^20Magento2^%^20integration^%^20(3.0.2)^%^3B^%^20JS^%^20Helper^%^20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "accept: application/json" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "Origin: https://www.cdkeys.com" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.cdkeys.com/" ^
+  -H "Accept-Language: en,en-US;q=0.9,it;q=0.8" ^
+  --data-raw "^{^\^"requests^\^":^[^{^\^"indexName^\^":^\^"magento2_default_products^\^",^\^"params^\^":^\^"highlightPreTag=__ais-highlight__&highlightPostTag=__^%^2Fais-highlight__&page=0&ruleContexts=^%^5B^%^22magento_filters^%^22^%^5D&hitsPerPage=24&clickAnalytics=true&query=resta&maxValuesPerFacet=10&facets=^%^5B^%^22restricted_countries^%^22^%^2C^%^22platforms^%^22^%^2C^%^22region^%^22^%^2C^%^22language^%^22^%^2C^%^22genres^%^22^%^2C^%^22price.EUR.default^%^22^%^5D&tagFilters=&facetFilters=^%^5B^%^22restricted_countries^%^3A-IT^%^22^%^5D&numericFilters=^%^5B^%^22visibility_search^%^3D1^%^22^%^5D^\^"^}^]^}" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/k/i/king_of_retail_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/b/l/blue_estate_the_game_pc.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/T/h/The_Testament_of_Sherlock_Holmes_PC.png" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/P/e/Perimeter_Emperor_s_Testament_PC.png" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://cdn.cdkeys.com/265x265/media/catalog/product/s/s/ss_02c7bd2100b65c265dd5b28ab00d7218f52f41fb.1920x1080-min_12_.jpg" ^
+  -H "authority: cdn.cdkeys.com" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8" ^
+  -H "sec-fetch-site: same-site" ^
+  -H "sec-fetch-mode: no-cors" ^
+  -H "sec-fetch-dest: image" ^
+  -H "referer: https://www.cdkeys.com/" ^
+  -H "accept-language: en,en-US;q=0.9,it;q=0.8" ^
+  -H "cookie: __zlcmid=17fkZcaGi3fe7Be" ^
+  --compressed &
+curl "https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia^%^20for^%^20JavaScript^%^20(3.35.1)^%^3B^%^20Browser^%^3B^%^20instantsearch.js^%^20(4.7.2)^%^3B^%^20Magento2^%^20integration^%^20(3.0.2)^%^3B^%^20JS^%^20Helper^%^20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "accept: application/json" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "Origin: https://www.cdkeys.com" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.cdkeys.com/" ^
+  -H "Accept-Language: en,en-US;q=0.9,it;q=0.8" ^
+  --data-raw "^{^\^"requests^\^":^[^{^\^"indexName^\^":^\^"magento2_default_products^\^",^\^"params^\^":^\^"highlightPreTag=__ais-highlight__&highlightPostTag=__^%^2Fais-highlight__&page=0&ruleContexts=^%^5B^%^22magento_filters^%^22^%^5D&hitsPerPage=24&clickAnalytics=true&query=restar&maxValuesPerFacet=10&facets=^%^5B^%^22restricted_countries^%^22^%^2C^%^22platforms^%^22^%^2C^%^22region^%^22^%^2C^%^22language^%^22^%^2C^%^22genres^%^22^%^2C^%^22price.EUR.default^%^22^%^5D&tagFilters=&facetFilters=^%^5B^%^22restricted_countries^%^3A-IT^%^22^%^5D&numericFilters=^%^5B^%^22visibility_search^%^3D1^%^22^%^5D^\^"^}^]^}" ^
+  --compressed &
+curl "https://muvyib7tey-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia^%^20for^%^20JavaScript^%^20(3.35.1)^%^3B^%^20Browser^%^3B^%^20instantsearch.js^%^20(4.7.2)^%^3B^%^20Magento2^%^20integration^%^20(3.0.2)^%^3B^%^20JS^%^20Helper^%^20(3.2.2)&x-algolia-application-id=MUVYIB7TEY&x-algolia-api-key=ODNjY2VjZjExZGE2NTg3ZDkyMGQ4MjljYzYwM2U0NmRjYWI4MDgwNTQ0NjgzNmE2ZGQyY2ZmMDlkMzAyYTI4NXRhZ0ZpbHRlcnM9" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "accept: application/json" ^
+  -H "content-type: application/x-www-form-urlencoded" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "Origin: https://www.cdkeys.com" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.cdkeys.com/" ^
+  -H "Accept-Language: en,en-US;q=0.9,it;q=0.8" ^
+  --data-raw "^{^\^"requests^\^":^[^{^\^"indexName^\^":^\^"magento2_default_products^\^",^\^"params^\^":^\^"highlightPreTag=__ais-highlight__&highlightPostTag=__^%^2Fais-highlight__&page=0&ruleContexts=^%^5B^%^22magento_filters^%^22^%^5D&hitsPerPage=24&clickAnalytics=true&query=restaru&maxValuesPerFacet=10&facets=^%^5B^%^22restricted_countries^%^22^%^2C^%^22platforms^%^22^%^2C^%^22region^%^22^%^2C^%^22language^%^22^%^2C^%^22genres^%^22^%^2C^%^22price.EUR.default^%^22^%^5D&tagFilters=&facetFilters=^%^5B^%^22restricted_countries^%^3A-IT^%^22^%^5D&numericFilters=^%^5B^%^22visibility_search^%^3D1^%^22^%^5D^\^"^}^]^}" ^
+  --compressed &
+curl "https://www.paypal.com/xoplatform/logger/api/logger" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"96^\^", ^\^"Google Chrome^\^";v=^\^"96^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" ^
+  -H "Content-type: application/json" ^
+  -H "x-app-name: checkoutjs" ^
+  -H "Referer: https://www.cdkeys.com/" ^
+  -H "X-Requested-With: XMLHttpRequest" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  --data-raw "^{^\^"events^\^":^[^{^\^"level^\^":^\^"info^\^",^\^"event^\^":^\^"ppxo_pptm_script_error^\^",^\^"payload^\^":^{^\^"error^\^":^\^"Error: script_loading_error^\^\n    at https://www.paypalobjects.com/api/checkout.js:11910:35^\^\n    at new ZalgoPromise (https://www.paypalobjects.com/api/checkout.js:941:21)^\^\n    at loadScript (https://www.paypalobjects.com/api/checkout.js:11902:16)^\^\n    at Object.createPptmScript (https://www.paypalobjects.com/api/checkout.js:17372:26)^\^\n    at https://www.paypalobjects.com/api/checkout.js:25318:54^\^\n    at https://www.paypalobjects.com/api/checkout.js:5195:31^\^\n    at setup (https://www.paypalobjects.com/api/checkout.js:25376:9)^\^\n    at Module.^<anonymous^> (https://www.paypalobjects.com/api/checkout.js:25378:21)^\^\n    at __webpack_require__ (https://www.paypalobjects.com/api/checkout.js:11:27)^\^\n    at Module.^<anonymous^> (https://www.paypalobjects.com/api/checkout.js:16810:26)^\^",^\^"timestamp^\^":1640260304085,^\^"windowID^\^":^\^"73d523bd8d^\^",^\^"pageID^\^":^\^"5b39928786^\^",^\^"prev_corr_ids^\^":^\^"^\^",^\^"referer^\^":^\^"www.cdkeys.com^\^",^\^"host^\^":^\^"www.cdkeys.com^\^",^\^"path^\^":^\^"/^\^",^\^"env^\^":^\^"production^\^",^\^"country^\^":^\^"GB^\^",^\^"lang^\^":^\^"en^\^",^\^"uid^\^":^\^"uid_d4553b41e2_mte6nte6ndm^\^",^\^"ver^\^":^\^"4.0.331^\^"^}^}^],^\^"meta^\^":^{^\^"state^\^":^\^"ui_init^\^"^},^\^"tracking^\^":^[^]^}" ^
+  --compressed
