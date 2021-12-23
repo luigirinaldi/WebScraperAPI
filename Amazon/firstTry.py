@@ -1,51 +1,108 @@
 import requests
-from requests.api import head
 import json
 import pprint
+from bs4 import BeautifulSoup
 
-from requests.models import Response
+def getResponseURL(url):
+    headers = {
+        "authority":"www.amazon.it",
+        "scheme":"https",
+        "cache-control":"max-age=0",
+        "rtt":"50",
+        "downlink":"10",
+        "ect":"4g",
+        "sec-ch-ua-mobile":"?0",
+        "sec-ch-ua-platform":"'Windows'",
+        "upgrade-insecure-requests":"1",
+        "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+        "sec-fetch-site":"same-origin",
+        "sec-fetch-mode":"navigate",
+        "sec-fetch-user":"?1",
+        "sec-fetch-dest":"document",
+        "accept-encoding":"gzip, deflate, br",
+        "accept-language":"en,en-US;q=0.9,it;q=0.8",
+    }
+    try:
+        return requests.get(url=url,headers=headers)
+    except:
+        return -1
 
-def findPrice(inputStr):
+def getItemResponse(itemId):
+    url = f"https://amazon.it/dp/{itemId}"
+    return getResponseURL(url)
+
+def findPriceIT(inputStr):
     #price sample: 
     #   class="a-price" data-a-size="m" data-a-color="price"><span class="a-offscreen">8,20 €</s
     #assuming price is between class="a-price a-text-price and €
     #then assume it is between € and >
-    pricePos = r.text.find('class="a-price a-text-price')
-    pricePos1 = r.text.find('€',pricePos)
-    pricePos2 = r.text.rfind('>',pricePos,pricePos1) + 1  #search leftwards from € 
+    pricePos = inputStr.find('class="a-price a-text-price')
+    pricePos1 = inputStr.find('€',pricePos)
+    pricePos2 = inputStr.rfind('>',pricePos,pricePos1) + 1  #search leftwards from € 
     
-    final = r.text[pricePos2:pricePos1].replace(',','.')
+    final = inputStr[pricePos2:pricePos1].replace('.','') #remove all dots 
+    final = final.replace(',','.') #replace decimal separator to make it work
+
     return float(final)
 
+def findProdTitle(inputStr):
+    #sample: 
+    #   <span id="productTitle" class="a-size-large product-title-word-break">        Gigabyte GeForce, Scheda grafica RTX 3080 GAMING OC 10GB V2 LHR       </span> 
+    #find span id="productTitle" and next <, then find previous > and done
+    pos0 = inputStr.find('span id="productTitle"')
+    pos1 = inputStr.find('<',pos0)
+    pos2 = inputStr.find('>',pos0,pos1) + 1
 
-# class="a-price a-text-price a-size-medium apexPriceToPay"
+    return inputStr[pos2:pos1].strip()
 
-headers = {
-    "authority":"www.amazon.it",
-    "scheme":"https",
-    "path":"/Silverline-546524-Set-cacciaviti-colore/dp/B003TO2JD0/ref=sr_1_9?keywords=cacciavite&qid=1640281294&sr=8-9",
-    "cache-control":"max-age=0",
-    "rtt":"50",
-    "downlink":"10",
-    "ect":"4g",
-    "sec-ch-ua-mobile":"?0",
-    "sec-ch-ua-platform":"'Windows'",
-    "upgrade-insecure-requests":"1",
-    "accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-    "sec-fetch-site":"same-origin",
-    "sec-fetch-mode":"navigate",
-    "sec-fetch-user":"?1",
-    "sec-fetch-dest":"document",
-    "accept-encoding":"gzip, deflate, br",
-    "accept-language":"en,en-US;q=0.9,it;q=0.8",
-}
+def searchAmazon(query):
+    url = f"https://www.amazon.it/s?k={query}"
+    resp = getResponseURL(url)
+
+    # data-component-type="s-search-result" -> recognize div containing search result
+    # data-asin="B07TRVXS17" -> ASIN of the amazon item
+    soup = BeautifulSoup(resp.text,'html.parser')
+    asins = soup.findAll(attrs={"data-component-type":"s-search-result"})
+
+    # price stored in <span class="a-price-whole">22,99</span> 
+    # name: <span class="a-size-base-plus a-color-base a-text-normal">NWOUIIAY Rasoio Elettrico Uomo Wet &amp; Dry Ricaricabile Rasoio Barba con Testine Rotanti 3D ...</span>
+    for asin in asins:
+        id = asin['data-asin']
+        try:
+            priceStr = asin.find(attrs={'class':'a-price-whole'}).string
+            priceStr = priceStr.replace('.','') #remove all dots 
+            priceStr = priceStr.replace(',','.') #replace decimal separator to make it work
+            price = float(priceStr)
+
+            name = asin.find(attrs={'class':'a-size-base-plus a-color-base a-text-normal'}).string
+            print(f"{id} {name[:50]}: EUR {price}")
+        except:
+            print(f"{id} not found")
 
 
-url = "https://www.amazon.it/dp/B01J84AMZ6/ref=s9_acsd_ri_bw_c2_ALTICOL_8_i?pf_rd_m=A2VX19DFO3KCLO&pf_rd_s=merchandised-search-7&pf_rd_r=QN7P20MJE1YEVP2BYHY5&pf_rd_t=101&pf_rd_p=c1058088-23f6-4c4f-a75a-20fb47f45f87&pf_rd_i=26215470031&th=1"
 
-r = requests.get(url=url,headers=headers)
+    # SLOW AND STUPID 
 
-print(f"{findPrice(r.text)}€")
+    # for asin in asins:
+    #     id = asin['data-asin']
+    #     r = getItemResponse(id).text
+    #     try:
+    #         print(f"{id} {findProdTitle(r)}: EUR {findPriceIT(r)}")
+    #     except:
+    #         print(f"{id} failed")
 
-with open('response.txt','w',encoding="utf-8") as f:
-    f.write(r.text)
+
+if __name__ == "__main__":
+
+    # url = "https://www.amazon.it/Gigabyte-GeForce-Scheda-grafica-V2/dp/B096Y36BM3/ref=sr_1_1?keywords=rtx+3080&qid=1640285620&sr=8-1"
+
+    # r = getResponseURL(url)
+
+    # print(f"{findProdTitle(r.text)}: {findPriceIT(r.text)}€")
+
+    qString = input("find the price of the following item:\n")
+
+    qStringFormat = qString.replace(' ','+')
+
+    searchAmazon(qStringFormat)
+
